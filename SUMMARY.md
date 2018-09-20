@@ -1,4 +1,5 @@
-# Summary
+# Table of contents
 
-* [Introduction](README.md)
+* [Initial page](README.md)
+* [Interface](interface.md)
 
